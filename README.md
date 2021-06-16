@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HugoLCode
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning different aspect of informatic
+- 💞️ I’m looking to collaborate on Cocodeur LootBot
+- 📫 How to reach me ? hugo.larose.pro@gmail.com
