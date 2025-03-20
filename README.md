@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HugoLCode
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in data enginering
 - 🌱 I’m currently learning different aspect of informatic
-- 💞️ I’m looking to collaborate on Cocodeur LootBot
+- 💞️ I’m looking to collaborate with Cocodeur on GetMyDiscount
 - 📫 How to reach me ? hugo.larose.pro@gmail.com
