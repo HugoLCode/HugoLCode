@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HugoLCode
 - 👀 I’m interested in data enginering
-- 🌱 I’m currently learning different aspect of informatic
-- 💞️ I’m looking to collaborate with Cocodeur on GetMyDiscount
+- 🌱 I’m currently learning different aspect of informatic (AI, Data, Cyber)
+- 💞️ I’m looking to collaborate with Cocodeur on GetMyDiscount and Leegal 
 - 📫 How to reach me ? hugo.larose.pro@gmail.com
